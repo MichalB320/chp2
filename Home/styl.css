@@ -1,0 +1,66 @@
+body {
+    /*background: #191919;*/
+    /*background: url("bg.jpg") no-repeat;*/
+    /*background-position-y: 244px;*/
+
+    margin: 0px;
+    padding: 0px;
+    /*width: 100vw;*/
+    /*height: 100vh;*/
+    /*background-position-x: center;*/
+    /*background-size: cover;*/
+}
+
+.pozadie {
+    background: url("bg.jpg") no-repeat;
+    width: 100vw;
+    height: 100vh;
+    background-position-x: center;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+
+span {
+    color: #dc3545;
+}
+
+
+.row {
+    padding: 0;
+    margin: 0;
+}
+
+.nadnadpis {
+
+    text-align: center;
+
+    color: #fcfc;
+}
+
+h1 {
+    /*margin-top: 200px;*/
+    color: white;
+}
+
+.pMargin {
+    margin-top: 180px;
+}
+
+/*img {*/
+/*    width: 200px;*/
+/*    height: 200px;*/
+/*}*/
+
+.text {
+    margin: 0 auto;
+    color: white;
+}
+
+@media screen and (max-width: 575px) {
+    .pozadie {
+        background: #191919;
+    }
+}
+
+
