@@ -120,9 +120,13 @@ session_start();
 
 			<input id="button" type="submit" value="Login"><br><br>
 
-			<a href="signup.php">Click to Signup</a><br><br>
+			<a href="signup.php">Registrovat</a><br><br>
 		</form>
-	</div>
+
+
+
+
+
 
 <!--    <div class="background">-->
 <!--        <div class="login-box">-->
@@ -149,5 +153,7 @@ session_start();
 <!--            <a href="../home/home.html" class="btn">Prihlásiť sa</a>-->
 <!--        </div>-->
 <!--    </div>-->
+
+<script type="text/javascript" src="script.js"></script>
 </body>
 </html>
